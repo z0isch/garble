@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Garble.Android\Garble.Android\AudioService.cs">
+    <Files>
+      <File FileName="Garble.Android\Garble.Android\Resources\layout\Record.axml" Line="17" Column="24" />
+      <File FileName="Garble.Android\Garble.Android\Record.cs" Line="13" Column="4" />
+      <File FileName="Garble.Android\Garble.Android\Resources\values\Strings.xml" Line="2" Column="12" />
+      <File FileName="Garble.Android\Garble.Android\AudioService.cs" Line="54" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\AudioService.cs" line="60" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Garble.Android AndroidDeviceId-Debug="42f700112d28af39" />
+</Properties>

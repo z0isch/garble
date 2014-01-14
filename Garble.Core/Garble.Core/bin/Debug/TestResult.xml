@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\Garble.Core.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-01-13" time="23:18:05">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5472" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="MININT-DVMMJ37" user="aj" user-domain="MININT-DVMMJ37" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\Garble.Core.dll" executed="True" result="Success" success="True" time="0.101" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Garble" executed="True" result="Success" success="True" time="0.082" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Core" executed="True" result="Success" success="True" time="0.082" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="GarbleServiceTests" executed="True" result="Success" success="True" time="0.079" asserts="0">
+                <results>
+                  <test-case name="Garble.Core.GarbleServiceTests.DoNothing" executed="True" result="Success" success="True" time="0.066" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

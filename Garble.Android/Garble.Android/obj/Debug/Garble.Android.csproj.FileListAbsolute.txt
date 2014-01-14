@@ -1,0 +1,13 @@
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\bin\Debug\Garble.Android.dll
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\bin\Debug\Garble.Android.pdb
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\bin\Debug\Garble.Android.dll.mdb
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\bin\Debug\Garble.Android.apk
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\bin\Debug\Garble.Android-Signed.apk
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\obj\Debug\Garble.Android.dll
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\obj\Debug\Garble.Android.pdb
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\obj\Debug\android\bin\Garble.Android.apk
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\obj\Debug\res\values\strings.xml
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\obj\Debug\res\drawable\icon.png
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\obj\Debug\res\layout\record.xml
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\obj\Debug\R.cs.flag
+C:\UnprounceableAdage\Garble\Garble.Android\Garble.Android\obj\Debug\uploadflags.txt

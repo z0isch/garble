@@ -1,0 +1,13 @@
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\Garble.Core.dll
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\Garble.Core.pdb
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\mscorlib.dll
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\nunit.framework.dll
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\nunit.framework.xml
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\normidna.nlp
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\normnfc.nlp
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\normnfd.nlp
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\normnfkc.nlp
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\bin\Debug\normnfkd.nlp
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\obj\Debug\Garble.Core.csprojResolveAssemblyReference.cache
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\obj\Debug\Garble.Core.dll
+C:\UnprounceableAdage\Garble\Garble.Core\Garble.Core\obj\Debug\Garble.Core.pdb
